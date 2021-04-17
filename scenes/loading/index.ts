@@ -61,12 +61,6 @@ export class LoadingScene extends Scene {
             endFrame: 8
         });
         
-        // Zangief Sprites
-        this.load.spritesheet('zangief','./zangief/zangiefFrontBack.png',
-        {   frameWidth: 512, 
-            frameHeight: 512,
-            startFrame: 0,
-            endFrame: 1 });
 
     }
 
