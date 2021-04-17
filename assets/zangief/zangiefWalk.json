@@ -1,0 +1,199 @@
+{
+	"textures": [
+		{
+			"image": "zangiefWalk-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 512
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "zangiefWalkLeft1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					}
+				},
+				{
+					"filename": "zangiefWalkLeft2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					},
+					"frame": {
+						"x": 512,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					}
+				},
+				{
+					"filename": "zangiefWalkLeft3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					},
+					"frame": {
+						"x": 1024,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					}
+				},
+				{
+					"filename": "zangiefWalkLeft4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					},
+					"frame": {
+						"x": 1536,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					}
+				}
+			]
+		},
+		{
+			"image": "zangiefWalk-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 512
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "zangiefWalkRight1.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					}
+				},
+				{
+					"filename": "zangiefWalkRight2.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					},
+					"frame": {
+						"x": 512,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					}
+				},
+				{
+					"filename": "zangiefWalkRight3.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					},
+					"frame": {
+						"x": 1024,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					}
+				},
+				{
+					"filename": "zangiefWalkRight4.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 512,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					},
+					"frame": {
+						"x": 1536,
+						"y": 0,
+						"w": 512,
+						"h": 512
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4776c800b8e3b566ead2495a7d4f35b6:7b22884f6853e8572bf595ebaaf86850:19df697037e839393efcdf838b6ee122$"
+	}
+}
