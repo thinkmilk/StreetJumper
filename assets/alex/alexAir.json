@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "alexAir.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1152,
+				"h": 213
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "01659.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 213
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 213
+					}
+				},
+				{
+					"filename": "01660.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 213
+					},
+					"frame": {
+						"x": 288,
+						"y": 0,
+						"w": 288,
+						"h": 213
+					}
+				},
+				{
+					"filename": "01672.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 213
+					},
+					"frame": {
+						"x": 576,
+						"y": 0,
+						"w": 288,
+						"h": 213
+					}
+				},
+				{
+					"filename": "01673.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 288,
+						"h": 213
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 288,
+						"h": 213
+					},
+					"frame": {
+						"x": 864,
+						"y": 0,
+						"w": 288,
+						"h": 213
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6a779de3692ff2c06b6ca927fa995bd2:268877add0d8bb65d2fcf21541dffbc5:dc4adcdea6245eb8f28d4c42422eee28$"
+	}
+}
